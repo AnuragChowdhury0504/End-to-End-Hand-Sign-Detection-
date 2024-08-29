@@ -31,7 +31,7 @@ files_to_be_generated=[
     f'{project_name}/utils/__init__.py',
     f'{project_name}/utils/main_utils.py',
     
-    'templates/index.html',
+    'templates /index.html',
     '.dockerignore',
     'app.py',
     'Dockerfile',
